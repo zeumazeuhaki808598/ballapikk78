@@ -1,0 +1,4 @@
+baseURL = "https://jaguarnine-football7.vercel.app"
+languageCode = "en-us"
+title = "Fantasy Football Premier League"
+theme = "hugo-theme-minos"
